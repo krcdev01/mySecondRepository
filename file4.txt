@@ -1,1 +1,1 @@
-This is some content to mess up with later
+This is a broken modification to an existing file.
